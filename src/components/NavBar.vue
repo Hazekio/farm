@@ -28,7 +28,7 @@ function logOut(){
     <v-app-bar color="primary">
         <v-app-bar-title>
             <router-link to="/">  
-                <v-img src="logo.png" width="8%" height="10%"></v-img>
+                <v-img src="logo.png" width="6%" height="10%"></v-img>
             </router-link>
         </v-app-bar-title>
         <v-btn to ="/">Home</v-btn>

@@ -9,6 +9,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Tomato",
                 category: "Fruit",
                 price: 200,
+                description:"Fresh, juicy, and bursting with flavor — nature’s perfect bite.",
                 availability: true,
                 image: 'tomato.jpg'
             },
@@ -17,6 +18,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Banana",
                 category: "Fruit",
                 price: 100,
+                description:"Nature’s energy bar, peel and go.",
                 availability: true,
                 image: 'banana.jpg'
             },
@@ -25,6 +27,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Mango",
                 category: "Fruit",
                 price: 300,
+                description:"The king of fruits, sweet in every bite.",
                 availability: true,
                 image: 'mango.jpg'
             },
@@ -33,6 +36,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Watermelon",
                 category: "Fruit",
                 price: 400,
+                description:"Summer in a slice.",
                 availability: true,
                 image: 'watermelon.jpg'
             },
@@ -41,6 +45,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Cabbage",
                 category: "Vegetable",
                 price: 100,
+                description:"Humble leaves, hearty goodness.",
                 availability: true,
                 image: 'cabbage.jpg'
             },
@@ -49,6 +54,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Potato",
                 category: "Vegetable",
                 price: 200,
+                description:"The comfort food classic, endlessly versatile.",
                 availability: true,
                 image: 'potato.jpg'
             },
@@ -57,6 +63,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Onion",
                 category: "Vegetable",
                 price: 100,
+                description:"Layers of flavor in every dish.",
                 availability: true,
                 image: 'onion.jpg'
             },
@@ -65,6 +72,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Garlic",
                 category: "Vegetable",
                 price: 100,
+                description:"Small clove, big punch",
                 availability: true,
                 image: 'garlic.jpg'
             },
@@ -73,6 +81,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Carrot",
                 category: "Vegetable",
                 price: 300,
+                description:"Crunchy, sweet, and packed with goodness.",
                 availability: true,
                 image: 'carrot.jpg'
             },
@@ -81,6 +90,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Tangerine",
                 category: "Fruit",
                 price: 400,
+                description:"Little bursts of sunshine",
                 availability: true,
                 image: 'tangerine.jpg'
             },
@@ -89,6 +99,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Lemon",
                 category: "Fruit",
                 price: 100,
+                description:"Zesty freshness in every squeeze.",
                 availability: true,
                 image: 'lemon.jpg'
             },
@@ -97,6 +108,7 @@ export const useProductsStore = defineStore('products',  {
                 name: "Eggplant",
                 category: "Vegetable",
                 price: 300,
+                description:"Rich, glossy, and full of flavor.",
                 availability: true,
                 image: 'eggplant.jpg'
             },
